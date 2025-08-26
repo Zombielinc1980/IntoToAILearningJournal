@@ -1,0 +1,48 @@
+Unit 1 Lecture 2 - AI Terms
+
+Algorithm: A set of rules that a machine can follow to learn how to do a
+task.
+
+Artificial intelligence: This refers to the general concept of machines
+acting in a way that simulates or mimics human intelligence. AI can have
+a variety of features, such as human-like communication or decision
+making.
+
+Bias: An assumption made by a model that simplify the process of
+learning to do its assigned task.
+
+Big Data: Datasets that are too large or complex to be used by
+traditional data processing applications
+
+Black Box: A system whose internal workings are opaque, meaning its
+decision-making process is not transparent and cannot be understood by
+humans
+
+Context Window: is the maximum number of tokens (words or parts of the
+word) that an AI model can process and consider simultaneously when
+generating a response.
+
+Emergent Behavior: The unexpected skills of AI that we didn\'t train it
+to do.
+
+Generative AI: A prompt is giving and it gives a response related to it.
+
+Hallucination: Making something up when it doesn\'t have a factual
+response.
+
+Large Language Model (LLM): This is what generative AI uses to forecast
+its sequences.
+
+Meta Prompt/System Prompt: The set of instructions given to the AI
+behind the scenes before an interaction begins.
+
+Prompt Engineering: Perfecting your prompts to help make more effective
+outputs from the AI model\'s outputs.
+
+Temperature (AI Temperature): Setting controls how deterministic or
+creative that AI model\'s output is Lower values (e.g., 0.2) lead to
+more focused and consistent answers.
+
+Token: Common sequences of characters found in a set of text.
+
+Become an MD
