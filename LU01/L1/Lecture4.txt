@@ -1,0 +1,15 @@
+Unit 1 Lecture 4
+
+AI Models
+
+Context Window: Short term memory
+Different AIs cost different amount per token.
+"Free software" users have the freedom to run, copy, distribute, study, change, and improver the software.
+You have to have a license in order to access these "free open software"
+Companies claim their software is open source but without the ability to change it privately, it is not open source.
+AI companies have an incentive to lie about their energy consumption but the reason for has come forward yet.
+Microsoft is reopening a nuclear plant just to supply even more power for their AI servers.
+Tokens are used to break down information in code and can use them to predict the next info.
+Generating new tokens cost more than old tokens.
+Some AI use a little tokens as possible so it's cheaper and give smaller response while some give long answers with low cost on tokens but some other AI give very small answers while using a very large amount of tokens.
+If AI doesn't improve every year, it will eventually collapse on itself.
