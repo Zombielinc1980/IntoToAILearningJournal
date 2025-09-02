@@ -1,0 +1,34 @@
+Unit 2 Lecture 1 - Generative AI Text
+
+Prompt Engineering - How can I get AI to do what I want as efficiently as possible with the shortest prompt possible.
+
+Prompt - A natural language text the requests the generative AI to perform a specific task.
+
+Prompts are important because it improves user experience, increases flexibility and can be much cheaper.
+
+Give clear and specific prompts to get better results from generative AI.
+
+Prompt Steps:
+- Task: 
+	Persona (Who the AI is)
+	Format: Output Style
+- Context: 
+	Good: Give me some ideas for a birthday present. Under $30
+	Great: Give me 5 ideas for a birthday present. My budget is $30. 
+	The gift is for a 29 year old who loves winter sports and has recently switched to snowboarding from skiing.
+- Reference:
+	Additional input data, ideas
+- Evaluate:
+	"Is it a good _?", Does it meet the requirements I provided?
+- Iterate
+	Go back through with the AI to fix any possible errors with your prompt or results of the prompt and make changes
+	where they are needed.
+
+Summarize the key data points and information in this report. Then create visual graphs from the data, and shorten
+the key information into bullets.
+
+AI can sometimes get stuck with your prompt if its not worded correctly and you might keep getting the same errors when it
+comes to coding prompts. You can try writing the same thing just in a different way or you can go to a different generative
+AI to see if it can help resolve your issue.
+
+Introducing constraints on your prompts can help create better results more tailored to you.
