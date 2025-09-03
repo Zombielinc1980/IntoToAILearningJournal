@@ -1,0 +1,14 @@
+Unit 2 Lecture 2 - Work Tasks
+
+If you put in garbage, it's going to put out garbage
+
+The most used work task for AI is emails. 
+
+Persona, Context and Task are all important parts of a prompt.
+
+One of the most common tasks given to AI is summarization
+
+Instead of doing a prompt as one long complex prompt you can do step-by-step simple prompts can give better results.
+
+Chain of thought/Chain of Summary
+
