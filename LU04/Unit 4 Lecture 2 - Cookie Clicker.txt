@@ -1,0 +1,11 @@
+Unit 4 Lecture 2 - Cookie Clicker
+
+Worked with AI to generate a cookie clicker AI slop game.
+
+Running it through AI as well to alter the code to improve the game and give it a more refined UI
+
+Started with a very bare bones game and had ChatGPT build more on it
+
+It is making up images that dont exist since we didn't give it one to use
+
+Had it make an achievement system along with grandmas you can buy to have passive income
