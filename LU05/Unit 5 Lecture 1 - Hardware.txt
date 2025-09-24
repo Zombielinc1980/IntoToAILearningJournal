@@ -1,0 +1,24 @@
+Unit 5 Lecture 1 - Hardware
+
+What hardware do you need to run AI?
+
+Hardware - Motherboard, CPU, Power Supply
+
+Motherboard - The body of the computer that works as a roadmap for the different components
+
+CPU - The brain of the computer that does all of the thinking. It connects all of the PCIE Express lanes.
+"We as apes made sand think" Luke Matheis 2025
+
+Power Supply - It converts AC power to DC power for your computer. Most gaming PCs take 600-1200 Watts.
+
+RAM - Random Access Memory. This is fast and expensive volatile storage. Laptops are None ECC and servers are
+ECC.
+
+Storage - HDD, SATA Drive, NVME SSD
+
+Network Card - Improves your internet connection or gives your computer internet access
+
+GPU - It is a coprocessor. It is dedicated for just about everything the CPU doesn't. It does all of the
+graphics processing. Also comes equipped with its own VRAM.
+
+Raspberry Pi - Miniature cheap computers that have various usage possibilities
