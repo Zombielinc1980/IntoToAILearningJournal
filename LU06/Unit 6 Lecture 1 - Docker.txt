@@ -1,0 +1,13 @@
+Unit 6 Lecture 1 - Docker
+
+Containers only virtualize the OS which allows thing to run a lot easier.
+
+With the containers it allows you to run on a bunch of different machines and transfer easily over clouds.
+
+Docker is a way to run software portably. To prevent having to buy multiple laptops to make sure your software works, Docker allows you to have whatever machine you own to run the Docker containers.
+
+Anyone that has docker installed can use your app no matter what machine they are using.
+
+Allows the maintainer of the software to not have to package the software all the time.
+
+Podman is an alternative of Docker that works the exact same way but has slightly different commands.
