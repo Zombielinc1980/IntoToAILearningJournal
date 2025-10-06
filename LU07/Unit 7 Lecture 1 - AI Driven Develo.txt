@@ -1,0 +1,7 @@
+Unit 7 Lecture 1 - AI Driven Development
+
+There are many different types of Web Frameworks. Svelte is what will be used.
+
+Web Framework - Less code, building off of other peoples code so you can make more complicated websites
+
+Svelte - JavaScript tool, compiler, high performance small package, provides easy sharing between data
