@@ -1,0 +1,7 @@
+Unit 7 Lecture 3 - More Vibe Coding
+
+Building a registration form for students signing up for the program.
+
+Class format is face to face, live virtual learning or Online Learning (WWW)
+
+Website is going to change based on what the user does.

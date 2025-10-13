@@ -1,0 +1,22 @@
+Unit 7 Lecture 2 - Adding Feature to Svelte
+
+You can use AI to create a project or just run a command to create it
+
+Created a website using the prompt given to us for class: 
+Create a simple page that displays the event name
+
+-Event Name "Iowa Tech Summit"
+-Description: "Connect, Learn, and Grow at Iowas Premier Technology Conference"
+Date: September 15, 2026
+Time: 10:00 AM
+Location: Iowa Events Center
+
+Style it nicely with Tailwind CSS. Make the event name Blue and Bold
+
+It created a register and learn more button despite me not asking for it
+
+I gave the register button a function
+
+Added a photo of my cat to the website to test if it can properly add images
+
+Asked it to add a second event and it completely made up a new event that doesn't exist
